@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+src/mnn/__init__.py
+src/mnn/api.py
+src/mnn/communication.py
+src/mnn/core.py
+src/mnn/engine.py
+src/mnn/evaluation.py
+src/mnn/manager.py
+src/mnn_framework.egg-info/PKG-INFO
+src/mnn_framework.egg-info/SOURCES.txt
+src/mnn_framework.egg-info/dependency_links.txt
+src/mnn_framework.egg-info/requires.txt
+src/mnn_framework.egg-info/top_level.txt
+tests/test_basic.py
